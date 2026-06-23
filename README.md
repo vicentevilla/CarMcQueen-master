@@ -4,8 +4,7 @@
 Microservicio desarrollado con Spring Boot para gestionar vehículos, tipos de vehículo, vendedores, clientes y ventas de una concesionaria.
 
 ## Estudiantes
-- [Tu nombre aquí]
-- [Nombre compañero 2]
+- Vicente Villalobos
 
 ## Microservicios / Entidades implementadas
 | Entidad | Endpoints base |
